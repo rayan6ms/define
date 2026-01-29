@@ -23,7 +23,7 @@ It’s online-first with offline fallback, and it can run as a small user daemon
 - **From GitHub Releases (no Go needed):** download a prebuilt binary from **Releases**.
 - **From source:** build with Go.
 
-➡️ **Releases:** https://github.com/<rayan6ms/define/releases
+➡️ **Releases:** https://github.com/rayan6ms/define/releases
 
 ## Install from GitHub Releases (no Go required)
 
